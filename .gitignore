@@ -1,0 +1,4 @@
+handwritten-digit.keras
+*.keras
+venv/
+
