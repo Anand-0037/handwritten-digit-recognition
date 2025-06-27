@@ -1,4 +1,8 @@
 handwritten-digit.keras
 *.keras
 venv/
+.vscode
+.python-version
+__pycache__/
+.venv/
 

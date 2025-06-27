@@ -20,6 +20,14 @@ tensorflow
 
 ## Installation
 
+## Using uv package manager
+
+### [uv install](https://docs.astral.sh/uv/#highlights)
++ uv init   # to init uv project
++ uv venv   # to create virtual env
++ uv sync   # to install dependencies from pyproject.toml
++ uv run main.py # to run python file
+
 ### Windows
 ```bash
 python -m venv digit_env
